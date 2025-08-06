@@ -263,4 +263,16 @@
 # result = MathUtils.add(5, 3)
 # print(f"Result: {result}")
 
+# from contextlib import contextmanager
 
+# @contextmanager
+# def main():
+#     print("Entering main context")
+#     yield
+#     print("Exiting main context")
+
+# with main():
+#     print("Inside main context")
+    # You can perform operations here that require the context
+    # This is where you would typically run your main application logic
+    
